@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+scikit-image
+graphviz
+pyarrow
+fastparquet
+awswrangler
+boto3
+h5py
